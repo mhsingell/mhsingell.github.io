@@ -26,7 +26,6 @@
       <change afterPath="$PROJECT_DIR$/files/jmp.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/google6887beaee8297017.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/profile.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
@@ -134,7 +133,9 @@
       <change beforePath="$PROJECT_DIR$/images/bio-photo-2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/bio-photo.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/markdown_generator/PubsFromBib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/PubsFromBib.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/markdown_generator/pubsFromBib.py" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/pubsFromBib.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/markdown_generator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/readme.md" afterDir="false" />
