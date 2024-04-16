@@ -5,18 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**People Analytics**\
-Teaching Assistant for Professor Amir Goldberg, 2022
+Update with more details 
+
+**Negotiations**\
+Teaching Assistant for Professor Nir Halevy, 2023
 
 
-**Organizational Culture**\
-Teaching Assistant for Professor Glenn Carroll, 2021-2022
+**From Start-up to Scale Up**\
+Teaching Assistant for Professor Hayagreeva Rao, 2021-2022
 
 
 **Org 2.0: The Analytics of Organization Design**\
-Teaching Assistant for Professor Julien Clement, 2021
+Teaching Assistant for Professor Julien Clement, 2023
 
 
-**Acting with Power**\
-Teaching Assistant for Professor Benoît Monin, 2021
+**People Analytics**\
+HBS design class
     
