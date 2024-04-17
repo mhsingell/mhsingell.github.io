@@ -5,20 +5,27 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Update with more details 
+**From Start-up to Scale Up**\
+Teaching Assistant for Professor Hayagreeva Rao, 2022-2023
+- Presented original research and led class discussion for section of 85 MBAs and managed discussions with speakers, start-up founders, and VC investors.
+- Teacher Rating: 4.9
 
 **Negotiations**\
 Teaching Assistant for Professor Nir Halevy, 2023
-
-
-**From Start-up to Scale Up**\
-Teaching Assistant for Professor Hayagreeva Rao, 2021-2022
-
-
+-	Managed 6 negotiation sessions with debriefs for 40 MBAs and provided in depth feedback on core negotiation concepts including bargaining zones, trust, 
+principal-agent problems, disputes, ethics, and culture.
+     
 **Org 2.0: The Analytics of Organization Design**\
 Teaching Assistant for Professor Julien Clement, 2023
-
+- Wrote and edited course material code in Python, ran review sessions covering topics in statistics, coding in Python and 
+computational modeling.
+  
+**Managing Groups and Teams**\
+Teaching Assistant for Professor Justin Berg, 2022
+- Ran course exercises including Lego Man and Star Power for incoming MBA class.
 
 **People Analytics**\
-HBS design class
+Teaching Assistant for Professor Jeff Polzer, HBS, 2019
+-	Created course content code in R, co-taught review sessions, and adapted MBA course work for Executives enrolled in Harvard Business Analytics Program
+
     

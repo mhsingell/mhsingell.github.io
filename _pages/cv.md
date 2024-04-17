@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/Singell_Madison_CV_2023_03.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Singell_Madison_CV_2024_04.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/Singell_Madison_CV_2023_03.pdf).
+You can download a PDF copy of my CV [here](/files/Singell_Madison_CV_2024_04.pdf).
