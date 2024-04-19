@@ -26,6 +26,6 @@ Teaching Assistant for Professor Justin Berg, 2022
 
 **People Analytics**\
 Teaching Assistant for Professor Jeff Polzer, HBS, 2019
--	Created course content code in R, co-taught review sessions, and adapted MBA course work for Executives enrolled in Harvard Business Analytics Program
+-	Created course content code in R, co-taught review sessions, and adapted MBA course work for Executives enrolled in Harvard Business Analytics Program.
 
     
