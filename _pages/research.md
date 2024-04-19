@@ -14,5 +14,10 @@ author_profile: true
 - **Singell, Madison**. “Organizational Applications of the Ising Model.”
 
 ## Work in Progress
+- **Singell, Madison** and Amir Goldberg. “The Best of All Possible Semantic Worlds:  Evaluating Narratives Relative to Interpretations.”
+- Atwell, Jon, and **Madison Singell**.  “BERT and Cultural Representations of Meaning.”
 - **Singell, Madison**, Andrea Freund, Lindred Greer, Hayagreeva Rao, and Magaret Neale. "Does Collective Mental Time Travel Improve the Performance of New Self-Managed Teams?: Evidence from a Startup Competition."
-- 
+- **Singell, Madison**. “It’s a Numbers Game: How Bayesian Updating Perpetuates Biased Outcomes and Gender-Dependent Noise in Promotion Markets.” 
+- Polzer, Jeff, Evan DeFilippis, and **Madison Singell**. “When Meetings Multiply: The Consequences of Collaboration Overload.”
+- Polzer, Jeff, Evan DeFilippis, and **Madison Singell**. “Countries, Culture and Collaboration.”
+ 
