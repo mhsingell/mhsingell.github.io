@@ -16,7 +16,7 @@ At the GSB, I am a member of the [Computational Culture Lab](https://www.comp-cu
 I will be on the 2024-2025 academic job market. You can find the most up to date version of my job market paper here. (INSERT FILE)
 
 ## Why Narratives in Organizations? 
-Narratives are a key way humans convey meaning and negotiate interpretations. In organizations, in order to decide what to do next, it's important stakeholders agree about what happened. But employees often don’t agree and struggle to reach convergence of narratives even in a shared context like an organization. I study how the nature of the world, our experiences, and our culture impacts the narratives we form, in order to understand how organizations who are seeking to form convergent strategies can better navigate the pitfalls of narrative divergence. 
+Narratives are a key way humans convey meaning and negotiate interpretations. In organizations, in order to decide what to do next, it's important stakeholders agree about what happened. But employees often don’t agree and struggle to reach convergence of narratives, even in a shared context like an organization. I study how the nature of the world, our experiences, and our culture impacts the narratives we form, in order to understand how organizations who are seeking to form convergent strategies can better navigate the pitfalls of narrative divergence. 
 
 ## My Research in Quotes
 - “Storytelling reveals meaning without committing the error of defining it.” – Hannah Arendt
