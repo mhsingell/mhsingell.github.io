@@ -2,147 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="064be715-e882-48cb-918d-156473c61634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/Singell_Madison_CV_2023_03.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google6887beaee8297017.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profile.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/ui-text.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/ui-text.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/post-draft.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics-providers/google-analytics-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/404.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/archive-layout-with-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/archive-layout-with-content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/category-archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/collection-archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/markdown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/non-menu-page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/page-archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/research.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/sitemap.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/sitemap.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/tag-archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/talkmap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/talks.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/talks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/teaching.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/terms.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/year-archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-08-14-blog-post-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-08-14-blog-post-4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2199-01-01-future-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2024-02-17-paper-title-number-4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_masthead.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_syntax.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_syntax.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_animated.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_bordered-pulled.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_fixed-width.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_rotated-flipped.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_shims.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_sizing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_stacked.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/brands.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/brands.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/fontawesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/fontawesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/regular.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/regular.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/solid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/solid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/v4-shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/v4-shims.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2013-03-01-tutorial-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2014-03-01-talk-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_teaching/2014-spring-teaching-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_teaching/2015-spring-teaching-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/academicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/academicons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/academicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/academicons.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/collapse.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/collapse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/academicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/academicons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/academicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/academicons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/academicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/academicons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/academicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/academicons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/_main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-v4compatibility.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-v4compatibility.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/LaraYang_CV.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Singell_Madison_CV_2024_04.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Singell_Madison_CV_2024_04.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/jmp.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world-jekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3953273590_704e3899d5_m.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/500x300.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bio-photo-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bio-photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown_generator/PubsFromBib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/PubsFromBib.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown_generator/pubsFromBib.py" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/pubsFromBib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown_generator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talkmap/map.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,6 +53,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

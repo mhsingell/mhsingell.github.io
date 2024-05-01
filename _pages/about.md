@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I’m Madison! I’m a PhD Candidate in Organizational Behavior at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/madison-singell). My research explores how the stories we tell impact our ability to organize well. 
 
-At the GSB, I am a member of the [Computational Culture Lab](https://www.comp-culture.org/), and the methods I use to study narratives stem from this lab’s tradition. I’m a computational and mathematical modeler, and I also use natural language processing and other computational methods to identify narratives in text data. Prior to graduate school, I received my bachelor’s degree in Economics from Harvard and spent several years working in consulting, technology, and people analytics research. 
+I’m a computational and mathematical modeler, and I also use natural language processing and other computational methods to identify narratives in text data. Prior to graduate school, I received my bachelor’s degree in Economics from Harvard and spent several years working in consulting, technology, and people analytics research. 
 
 I will be on the 2024-2025 academic job market. You can find the most up to date version of my job market paper here. (INSERT FILE)
 
