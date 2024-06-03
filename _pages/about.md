@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I’m Madison! I’m a PhD Candidate in Organizational Behavior at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/madison-singell). My research explores how the way we understand the world and tell stories about it impacts our ability to organize well. 
+Hi, I’m Madison! I’m a PhD Candidate in Macro Organizational Behavior at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/madison-singell). My research explores how the way we understand the world and tell stories about it impacts our ability to organize well. 
 
 I’m a computational and mathematical modeler, and I also use natural language processing and other computational methods to identify understandings and narratives in text data. Prior to graduate school, I received my bachelor’s degree in Economics from Harvard and spent several years working in consulting, technology, and people analytics research. 
 
