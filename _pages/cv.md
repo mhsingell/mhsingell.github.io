@@ -11,4 +11,4 @@ redirect_from:
 
 <iframe src="/files/Singell_Madison_CV_2024_07.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/Singell_Madison_CV_2024_07.pdf).
+You can download a PDF copy of my CV [here](/files/Singell_Madison_CV_Current.pdf).
