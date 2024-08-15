@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="064be715-e882-48cb-918d-156473c61634" name="Default Changelist" comment="" />
+    <list default="true" id="064be715-e882-48cb-918d-156473c61634" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/files/Singell_Research_Statement_Current.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/~$ngell_Research_Statement_Current.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Singell_JMP_current.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Singell_JMP_current.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Singell_Research_Statement_Current.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Singell_Research_Statement_Current.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/~$ngell_JMP_Current.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
