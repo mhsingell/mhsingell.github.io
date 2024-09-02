@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="064be715-e882-48cb-918d-156473c61634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files/Singell_Research_Statement_Current.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/~$ngell_Research_Statement_Current.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Singell_JMP_current.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Singell_JMP_current.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Singell_Research_Statement_Current.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Singell_Research_Statement_Current.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/~$ngell_JMP_Current.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
