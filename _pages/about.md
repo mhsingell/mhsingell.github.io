@@ -13,7 +13,7 @@ Hi, I’m Madison! I’m a PhD Candidate in Macro Organizational Behavior at the
 
 I’m a computational and mathematical modeler, and I also use natural language processing and other computational methods to identify understandings and narratives in text data. Prior to graduate school, I received my bachelor’s degree in Economics from Harvard and spent several years working in consulting, technology, and people analytics research. 
 
-I'm holding off on the 2024-2025 academic job market in order to keep improving my work, but you can still find the most up to date version of my work [here](/files/Singell_JMP_current.pdf).
+I'll be on the 2025-2026 job market. I'm working on a new job market paper, and you can see an example of my work [here](/files/Singell_JMP_current.pdf).
 
 ## Why Causal Understandings and Narratives in Organizations? 
 Causal understandings, such as causal narratives, are a key way humans convey meaning and negotiate interpretations. In organizations, in order to decide what to do next, it's important stakeholders agree about what happened. But employees often don’t agree and struggle to reach convergence in understandings, even in a shared context like an organization. I study how the nature of the world, our experiences, and our culture impacts the understandings we form, in order to understand how organizations who are seeking to form convergent strategies can better navigate the pitfalls of divergent understandings. 
