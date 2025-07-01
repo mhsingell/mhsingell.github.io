@@ -13,7 +13,7 @@ Hi, I’m Madison! I’m a PhD Candidate in Macro Organizational Behavior at the
 
 I’m a computational and mathematical modeler, and I also use natural language processing and other computational methods to identify understandings and narratives in text data. Prior to graduate school, I received my bachelor’s degree in Economics from Harvard and spent several years working in consulting, technology, and people analytics research. 
 
-I'll be on the 2025-2026 job market. You can find an up to date version of my job market paper  [here](/files/Singell_JMP_Current_2026.pdf).
+I'll be on the 2025-2026 job market. You can find an up to date version of my job market paper  [here](/files/Singell_JMP_Current_2025.pdf).
 
 ## Why Causal Understandings, Theories and Narratives in Organizations? 
 Causal understandings, such as theories or causal narratives, are essential to both the formation of effective strategies ([Singell, 2025](/files/Singell_JMP_Current_2025.pdf)) and the negotiation of interpretations ([Goldberg & Singell, 2024](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-020321-030515); [Singell, WIP](/files/Singell_WIP_2025.pdf)). I study how decision-makers can learn effectively about their organizations' complex strategic environments using causal understandings, and how the choices organizations make to, for example, divide work, impose policies, and make hiring decisions, end up altering employees’ understanding of cause and effect, ultimately making the formation of successful strategy difficult.
