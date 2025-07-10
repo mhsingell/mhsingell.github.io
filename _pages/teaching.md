@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-A professional, researcher, and teacher with nine years of experience, I have taught classes, developed course materials, and delivered key business insights to students and executives alike. You can read my full teaching statement [here](/files/Teaching_Statement_Current.pdf). Below is a selection of my MBA and Executive classroom involvement from my time at the Stanford GSB and Harvard Business School. 
+A professional, researcher, and teacher with ten years of experience, I have taught classes, developed course materials, and delivered key business insights to students and executives alike. You can read my full teaching statement [here](/files/Teaching_Statement_Current.pdf). Below is a selection of my MBA and Executive classroom involvement from my time at the Stanford GSB and Harvard Business School. 
 
 **From Start-up to Scale Up**\
 Teaching Assistant for Professor Hayagreeva Rao, GSB, 2022-2023
