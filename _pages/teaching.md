@@ -27,7 +27,11 @@ Teaching Assistant for Professor Justin Berg, GSB, 2022
 - Ran course exercises including Lego Man and Star Power for incoming MBA class.
 
 **People Analytics**\
-Teaching Assistant for Professor Jeff Polzer, HBS, 2019
--	Created course content code in R, co-taught review sessions, and adapted MBA course work for Executives enrolled in Harvard Business Analytics Program.
+Teaching Assistant for Professor Jeff Polzer, HBS, 2019-2020
+-Created course content code in R, co-taught review sessions, and assisted with in-class administration of MBA course.
+
+**Harvard Business Analytics Program**
+Teaching Assistant for Professor Jeff Polzer, HBS, 2019-2020
+-Adapted MBA course work and managed classroom activities for Executives enrolled in Harvard Business Analytics Program.
 
     
