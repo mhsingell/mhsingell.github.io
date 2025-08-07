@@ -7,7 +7,7 @@ author_profile: true
 
 I am interested in how employees’ understanding of cause and effect influences an organization’s ability to form and execute effective strategies. You can find my full research statement [here](/files/Singell_Research_Statement_Current_2025.pdf).
 
-## Published ##
+## Publications ##
 - Goldberg, Amir and **Madison Singell**.  “The Sociology of Interpretation.” Annual Review of Sociology, May, 2024. [https://www.annualreviews.org/content/journals/10.1146/annurev-soc-020321-030515](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-020321-030515).
 - DeFilippis, Evan, Stephen Michael Impink, **Madison Singell**, Jeff Polzer, and Raffaella Sadun. “The Impact of COVID-19 on Digital Communication Patterns.” Humanities and Social Sciences Communications, vol. 9, no. 1, May 2022, p. 180, [https://doi.org/10.1057/s41599-022-01190-9](https://doi.org/10.1057/s41599-022-01190-9).
 
