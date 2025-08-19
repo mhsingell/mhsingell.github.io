@@ -12,11 +12,12 @@ I am interested in how employees’ understanding of cause and effect influences
 - DeFilippis, Evan, Stephen Michael Impink, **Madison Singell**, Jeff Polzer, and Raffaella Sadun. “The Impact of COVID-19 on Digital Communication Patterns.” Humanities and Social Sciences Communications, vol. 9, no. 1, May 2022, p. 180, [https://doi.org/10.1057/s41599-022-01190-9](https://doi.org/10.1057/s41599-022-01190-9).
 
 ## Working Papers (Full Manuscripts Available)
+- Felin, Teppo and **Madison Singell**. “Economic Cognition, Theories, and Combinatorial Salience.” R&R at *European Economic Review*.
 - **Singell, Madison**. ““Any Old Theory Will Do?: Why Cause-and-Effect Performance Links Form Parsimonious Mental Models of Complex Strategic Environments.” Job Market Paper, link to current version [here](/files/Singell_JMP_Current_2025.pdf).
 - **Singell, Madison**. “First the Chicken, Then the Egg: How Ordering Strategic Choice Helps Organizations Learn and Decision-Makers Disagree.” link to current version [here](/files/Singell_WIP_2025.pdf).
 - **Singell, Madison**. “Organizational Applications of the Ising Model.”
 - **Singell, Madison**, Andrea Freund, Lindred Greer, Hayagreeva Rao, and Magaret Neale. "Does Collective Mental Time Travel Improve the Performance of New Self-Managed Teams?: Evidence from a Startup Competition."
-- Polzer, Jeff, Evan DeFilippis, and **Madison Singell**. “When Meetings Multiply: The Consequences of Collaboration Overload.”
+
 
 ## Work in Progress
 - **Singell, Madison** and Co-Authors. “Does D-separation Generate Divergent Causal Understandings? Experimental Evidence.” 
